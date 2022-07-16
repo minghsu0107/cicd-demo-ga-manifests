@@ -8,4 +8,4 @@ apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
 images:
 - name: minghsu0107/cicd-demo-ga
-  newTag: main-f3889c7
+  newTag: main-ff7fa5a
